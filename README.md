@@ -1,6 +1,10 @@
 # url-short-clj
 
-A Clojure library designed to ... well, that part is up to you.
+Clojure wrapper around some common URL shortener services.
+
+Currently supported:
+
+* Google URL Shortener
 
 ## Usage
 
